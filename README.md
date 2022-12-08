@@ -22,8 +22,8 @@ Be sure to have python, jupyterlab, hvplot, and pandas installed before running 
 ---
 
 ## Usage
-To use this data, visit (https://hub-binder.mybinder.ovh/user/jeffreycrabill-challenge7-kovb10wt/lab/tree/etf_analyzer.ipynb), or download the challenge7 file from the repository at (https://github.com/jeffreycrabill/challenge7).  Open up the financial_planning_tools file in VS Code or a Juypter Lab Kernel
-![Voila](images/voila.png)
+To use this data, visit (https://hub-binder.mybinder.ovh/user/jeffreycrabill-challenge7-kovb10wt/lab/tree/etf_analyzer.ipynb), or download the challenge7 file from the repository at (https://github.com/jeffreycrabill/challenge7).  Open up the financial_planning_tools file in VS Code or a Juypter Lab Kernel.  <br>
+![Voila](images/Voila.png)
 
 
 ---
